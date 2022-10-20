@@ -2,11 +2,11 @@
 
 Mobile design patterns: the Model View Controller (MVC) pattern. 
 
-What this app
+*What this app*
 
 It is a  trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store!
 
-What I learn 
+*What I learn* 
 
 What is a design pattern and how is it used in programming.
 How to use the Model-View-Controller or MVC pattern for app development.
@@ -17,7 +17,7 @@ How to refactor code and stay organised.
 Learning about object initialisation.
 How to programmatically change UI elements such as Labels and Views.
 
-Default Quiz
+*Default Quiz*
 
   Question(q: "A slug's blood is green.", a: "True"),
         Question(q: "Approximately one quarter of human bones are in the feet.", a: "True"),
